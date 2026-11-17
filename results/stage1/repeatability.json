@@ -1,0 +1,30 @@
+{
+  "csv_metrics_verified": true,
+  "comparisons": [
+    {
+      "run": "dynamic_partition_1000",
+      "identical_job_csv": true
+    },
+    {
+      "run": "dynamic_partition_1001",
+      "identical_job_csv": true
+    },
+    {
+      "run": "dynamic_partition_1002",
+      "identical_job_csv": true
+    },
+    {
+      "run": "spark_fifo_1000",
+      "identical_job_csv": true
+    },
+    {
+      "run": "spark_fifo_1001",
+      "identical_job_csv": true
+    },
+    {
+      "run": "spark_fifo_1002",
+      "identical_job_csv": true
+    }
+  ],
+  "all_job_results_identical": true
+}

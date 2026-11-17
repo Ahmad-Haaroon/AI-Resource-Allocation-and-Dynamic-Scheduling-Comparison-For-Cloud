@@ -1,0 +1,103 @@
+{
+  "completed_jobs": 201,
+  "mean_jct_s": 110.44076119402986,
+  "makespan_s": 5909.566,
+  "policy": "spark_fifo",
+  "seed": 1002,
+  "decisions": 3756,
+  "elapsed_wall_s": 8.019136873999999,
+  "reward_jct_check": "passed",
+  "effective_upstream_args": {
+    "seed": 42,
+    "eps": 1e-06,
+    "num_proc": 1,
+    "num_exp": 10,
+    "query_type": "tpch",
+    "job_folder": "/Users/suri-da/Desktop/Creative Stuff/Works/Code Files/Cloud Computing/Reference Project/decima-sim/spark_env/tpch/",
+    "result_folder": "./results/",
+    "model_folder": "./models/",
+    "exec_cap": 50,
+    "num_init_dags": 1,
+    "num_stream_dags": 200,
+    "num_stream_dags_grow": 0.2,
+    "num_stream_dags_max": 500,
+    "stream_interval": 25000,
+    "executor_data_point": [
+      5,
+      10,
+      20,
+      40,
+      50,
+      60,
+      80,
+      100
+    ],
+    "reward_scale": 100000.0,
+    "alibaba": false,
+    "var_num_dags": false,
+    "moving_delay": 2000,
+    "warmup_delay": 1000,
+    "diff_reward_enabled": 0,
+    "new_dag_interval": 10000,
+    "new_dag_interval_noise": 1000,
+    "exec_group_num": [
+      50,
+      50
+    ],
+    "exec_cpus": [
+      1.0,
+      1.0
+    ],
+    "exec_mems": [
+      1.0,
+      0.5
+    ],
+    "test_schemes": [
+      "dynamic_partition"
+    ],
+    "tpch_size": [
+      "2g",
+      "5g",
+      "10g",
+      "20g",
+      "50g",
+      "80g",
+      "100g"
+    ],
+    "tpch_num": 22,
+    "canvs_visualization": 1,
+    "canvas_base": -10,
+    "node_input_dim": 5,
+    "job_input_dim": 3,
+    "hid_dims": [
+      16,
+      8
+    ],
+    "output_dim": 8,
+    "max_depth": 8,
+    "lr": 0.001,
+    "ba_size": 64,
+    "gamma": 1,
+    "early_terminate": 0,
+    "entropy_weight_init": 1,
+    "entropy_weight_min": 0.0001,
+    "entropy_weight_decay": 0.001,
+    "log_file_name": "log",
+    "master_num_gpu": 0,
+    "worker_num_gpu": 0,
+    "master_gpu_fraction": 0.5,
+    "worker_gpu_fraction": 0.1,
+    "average_reward_storage_size": 100000,
+    "reset_prob": 0,
+    "reset_prob_decay": 0,
+    "reset_prob_min": 0,
+    "num_agents": 16,
+    "num_ep": 10000000,
+    "learn_obj": "mean",
+    "saved_model": null,
+    "check_interval": 0.01,
+    "model_save_interval": 1000,
+    "num_saved_models": 1000,
+    "scheduler_type": "dynamic_partition"
+  }
+}

@@ -1,0 +1,6 @@
+.DS_Store
+.*.bkp
+__pycache__/
+*.py[cod]
+.venv/
+external/

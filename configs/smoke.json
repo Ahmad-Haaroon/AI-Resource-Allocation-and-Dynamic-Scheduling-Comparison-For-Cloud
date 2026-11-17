@@ -1,0 +1,8 @@
+{
+  "executors": 50,
+  "initial_jobs": 1,
+  "streaming_jobs": 200,
+  "arrival_interval_ms": 25000,
+  "seeds": [1000, 1001, 1002],
+  "policies": ["dynamic_partition", "spark_fifo"]
+}

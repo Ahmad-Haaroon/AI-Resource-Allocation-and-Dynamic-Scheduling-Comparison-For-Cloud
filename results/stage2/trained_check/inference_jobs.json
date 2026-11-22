@@ -1,0 +1,46 @@
+[
+  {
+    "arrival_ms": 0,
+    "completion_ms": 16457.0
+  },
+  {
+    "arrival_ms": 109167,
+    "completion_ms": 127990
+  },
+  {
+    "arrival_ms": 112737,
+    "completion_ms": 133829
+  },
+  {
+    "arrival_ms": 125596,
+    "completion_ms": 155351
+  },
+  {
+    "arrival_ms": 160756,
+    "completion_ms": 171465
+  },
+  {
+    "arrival_ms": 166355,
+    "completion_ms": 289311
+  },
+  {
+    "arrival_ms": 242981,
+    "completion_ms": 342156
+  },
+  {
+    "arrival_ms": 194884,
+    "completion_ms": 346726
+  },
+  {
+    "arrival_ms": 245907,
+    "completion_ms": 361149
+  },
+  {
+    "arrival_ms": 238731,
+    "completion_ms": 362325
+  },
+  {
+    "arrival_ms": 370748,
+    "completion_ms": 387403
+  }
+]

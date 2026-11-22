@@ -1,0 +1,182 @@
+{
+  "parameter_count": 4770,
+  "parameter_shapes": [
+    [
+      5,
+      16
+    ],
+    [
+      16
+    ],
+    [
+      16,
+      8
+    ],
+    [
+      8
+    ],
+    [
+      8,
+      8
+    ],
+    [
+      8
+    ],
+    [
+      8,
+      16
+    ],
+    [
+      16
+    ],
+    [
+      16,
+      8
+    ],
+    [
+      8
+    ],
+    [
+      8,
+      8
+    ],
+    [
+      8
+    ],
+    [
+      8,
+      16
+    ],
+    [
+      16
+    ],
+    [
+      16,
+      8
+    ],
+    [
+      8
+    ],
+    [
+      8,
+      8
+    ],
+    [
+      8
+    ],
+    [
+      13,
+      16
+    ],
+    [
+      16
+    ],
+    [
+      16,
+      8
+    ],
+    [
+      8
+    ],
+    [
+      8,
+      8
+    ],
+    [
+      8
+    ],
+    [
+      8,
+      16
+    ],
+    [
+      16
+    ],
+    [
+      16,
+      8
+    ],
+    [
+      8
+    ],
+    [
+      8,
+      8
+    ],
+    [
+      8
+    ],
+    [
+      29,
+      32
+    ],
+    [
+      32
+    ],
+    [
+      32,
+      16
+    ],
+    [
+      16
+    ],
+    [
+      16,
+      8
+    ],
+    [
+      8
+    ],
+    [
+      8,
+      1
+    ],
+    [
+      1
+    ],
+    [
+      20,
+      32
+    ],
+    [
+      32
+    ],
+    [
+      32,
+      16
+    ],
+    [
+      16
+    ],
+    [
+      16,
+      8
+    ],
+    [
+      8
+    ],
+    [
+      8,
+      1
+    ],
+    [
+      1
+    ]
+  ],
+  "finite_parameters": true,
+  "probability_normalization": true,
+  "initial_action_masks_valid": true,
+  "checkpoint_parameters_exact": true,
+  "checkpoint_probabilities_exact": true,
+  "inference_metrics": {
+    "completed_jobs": 11,
+    "mean_jct_s": 66.02727272727272,
+    "makespan_s": 387.403
+  },
+  "inference_steps": 289,
+  "inference_wall_s": 0.7052434290000011,
+  "tensorflow": "2.15.1",
+  "numpy": "1.26.4",
+  "source_checkpoint": "results/stage2/pilot/models/model_ep_3",
+  "parameter_sha256": "31637022edb57df0b2effa3f7ee2aeae49ddf8669a0ce7dd7febe1eac3954782"
+}

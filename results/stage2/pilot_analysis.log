@@ -1,0 +1,22 @@
+/Users/suri-da/Desktop/Creative Stuff/Works/Code Files/Cloud Computing/Cloud Computing Research Project/.venv-decima/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+WARNING:tensorflow:From /Users/suri-da/Desktop/Creative Stuff/Works/Code Files/Cloud Computing/Cloud Computing Research Project/.venv-decima/lib/python3.9/site-packages/tensorflow/python/summary/summary_iterator.py:27: tf_record_iterator (from tensorflow.python.lib.io.tf_record) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use eager execution and: 
+`tf.data.TFRecordDataset(path)`
+{
+  "successful_updates": 3,
+  "finite_checkpoint_values": true,
+  "update_compute_seconds": [
+    31.947612047195435,
+    23.852694034576416,
+    23.360829830169678
+  ],
+  "median_update_compute_seconds": 23.852694034576416,
+  "post_startup_update_seconds": [
+    23.852694034576416,
+    23.360829830169678
+  ],
+  "total_process_wall_seconds": 94.149996469,
+  "caution": "Three updates with two workers; stochastic episode horizons vary. Not convergence or final performance evidence."
+}

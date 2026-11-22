@@ -1,0 +1,10 @@
+{
+  "prepare_decima_compat.py": "a6a454e936d06d2af6f470843ce7deac10e4878f7549f252fa42cfc81feeef56",
+  "train_decima.py": "37fe0b1948b6ae5f3491a4f53bd5aec5d14fa22963e9642125da38446a8ccfcf",
+  "run_baselines.py": "78a970e83fa47340651649a9cfa65fe8041c507b1c667cc7e331b6ed907dd566",
+  "check_decima.py": "181ce067cad7671dc19726daa646f3409012980d1e33a83889ea0d50d3accab3",
+  "summarize_pilot.py": "b08dc1d377cce5205b4d9b8a17397ad933de6ad82a48bc113a4e074c35d7f00b",
+  "check_results.py": "6faff0d7a97d3382f48729cae14128db1141516dff493b9c5e85a7b140af3bb9",
+  "compat_layers.py": "f2f8eda1d16ddfb27fe46c20bdbf7f1db4eb75c23e6a6497e2c76cd5a9e13cff",
+  "run_training_pilot.py": "d37ad2bed2777e54c232c1832d24c6eb3a3ee4cc6e8c9166c7c35bd0e6e714a8"
+}

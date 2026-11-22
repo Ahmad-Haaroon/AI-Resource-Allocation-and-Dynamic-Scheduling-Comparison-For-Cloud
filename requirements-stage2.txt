@@ -1,0 +1,8 @@
+# Python 3.9, Intel macOS. Separate environment from Stage 1 (NumPy 2).
+tensorflow==2.15.1
+numpy==1.26.4
+networkx==3.2.1
+matplotlib==3.9.4
+# Avoid newer authentication dependencies requiring a Rust source build on this host.
+google-auth==2.29.0
+google-auth-oauthlib==1.2.0

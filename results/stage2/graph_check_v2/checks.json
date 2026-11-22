@@ -1,0 +1,19 @@
+{
+  "parameter_count": 4770,
+  "finite_parameters": true,
+  "probability_normalization": true,
+  "initial_action_masks_valid": true,
+  "checkpoint_parameters_exact": true,
+  "checkpoint_probabilities_exact": true,
+  "inference_metrics": {
+    "completed_jobs": 11,
+    "mean_jct_s": 67.73136363636364,
+    "makespan_s": 389.682
+  },
+  "inference_steps": 240,
+  "inference_wall_s": 0.6960681819999994,
+  "tensorflow": "2.15.1",
+  "numpy": "1.26.4",
+  "source_checkpoint": "random initialization",
+  "parameter_sha256": "b1ba9b90e07c04de28e5cd04530f780e2e0aa086c4f4a8ce44d5c05f38149859"
+}

@@ -1,0 +1,66 @@
+{
+  "commit": "c010dd74ff4b7566bd0ac989c90a32cfbc630d84",
+  "changes": [
+    {
+      "file": "actor_agent.py",
+      "before_sha256": "33d2ab3088bb868d9d0c9cc5c47f4d021b38f357d6662ef7ba387d4e16fc5d67",
+      "after_sha256": "1b8513cdca75779406ab33b15b6deb6101d5f9c7ddc18fdf57c87d648831b408"
+    },
+    {
+      "file": "gcn.py",
+      "before_sha256": "02a00b5da51ae7f4f03bc898afe5b8da1b90a02ae505fad1958d8508c59467c1",
+      "after_sha256": "1ba440ab70dd502e0fc20aaf10d8460b3066542b7e027a4c11a41ac1484f61e9"
+    },
+    {
+      "file": "gsn.py",
+      "before_sha256": "b55b5d35ac6389a0de040a50083bb98f496b0746e9c6e79cc419959c463e4c9f",
+      "after_sha256": "443eedb6a46ab5a66603d858e32f9bd3bedf4d77e707dfff2fa75815bbe63753"
+    },
+    {
+      "file": "msg_passing_path.py",
+      "before_sha256": "d20243cc641984058981643381d28d60f630dc363d18610be8c9502f9ea72750",
+      "after_sha256": "f41878d7fc9ace6ba259cb838a7f17184362c1ba56fbe24cdd9d7e2e76931db8"
+    },
+    {
+      "file": "multi_resource_test.py",
+      "before_sha256": "7c8df091365a6e006de51fd76bef00529262d3f17b755c3ff4e424db4750366f",
+      "after_sha256": "cca2fae2e2344b105dea3bd8d082dd6a492c1d8b5d4f84c8f7e438ab3598e795"
+    },
+    {
+      "file": "multi_resource_train.py",
+      "before_sha256": "bd66a06a1dd7c11241ded45dac86f2cb6e89bdd454ebbe0a05d7a8b98b5baf42",
+      "after_sha256": "b184945ebcafd9abcf5ce40681fd9e1c84f372c355d1e80b69029d323458c209"
+    },
+    {
+      "file": "sparse_op.py",
+      "before_sha256": "c7aadb64dcd42ad4c0cf70abb95f7fc6a62a78230dcc08ea2126a0c3032871ca",
+      "after_sha256": "ae79b17bb68aa0c147f43d1b539cb804ace1f5ce26472c43c7a8683d6d016000"
+    },
+    {
+      "file": "test.py",
+      "before_sha256": "a16a5ff168e1e10d982e31393ba698d502947f03e5005ef87b742e68c88d110e",
+      "after_sha256": "6a84c658442cb1509d2acd8a7c92467368543ea9f960fa1bd264f185030bccc2"
+    },
+    {
+      "file": "tf_logger.py",
+      "before_sha256": "ce65d8fde9ec67824ad6f464be4bb978a21b4e02a0684806755145e316f5adaf",
+      "after_sha256": "d9c31f07ad1d37f8955a842b847f2f414d50d4633d401faea963f35f0bd7b196"
+    },
+    {
+      "file": "tf_op.py",
+      "before_sha256": "5f4501365ebc43a9cc6faf731a4ad89820fd8f925adb2724ec6332fb76c6af9f",
+      "after_sha256": "30a1ff8d831fbab6b9b8aadb82272ed26bff72629ff6754d5f8bec3699ede2da"
+    },
+    {
+      "file": "train.py",
+      "before_sha256": "f869b7161e1d58ffe4e1eb083c48a6d7771c64cf9254879342dd3bf26ed56fac",
+      "after_sha256": "b7f218ca026f57fe878b650b9b13ce27cbb02dae3b2dc7bcde03bb9f80fcb94a"
+    },
+    {
+      "file": "utils.py",
+      "before_sha256": "6de620258beaec90aba32a528140441778b433d5f81dfb36d1c0e3ed30ec21f6",
+      "after_sha256": "06e06ece21186a36a868fd79dc29d9135198b216385d1e8a4182fb6d857c413d"
+    }
+  ],
+  "adapter_sha256": "f2f8eda1d16ddfb27fe46c20bdbf7f1db4eb75c23e6a6497e2c76cd5a9e13cff"
+}

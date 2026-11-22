@@ -1,0 +1,48 @@
+/Users/suri-da/Desktop/Creative Stuff/Works/Code Files/Cloud Computing/Cloud Computing Research Project/.venv-decima/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+WARNING:tensorflow:From /Users/suri-da/Desktop/Creative Stuff/Works/Code Files/Cloud Computing/Cloud Computing Research Project/.venv-decima/lib/python3.9/site-packages/tensorflow/python/compat/v2_compat.py:108: disable_resource_variables (from tensorflow.python.ops.variable_scope) is deprecated and will be removed in a future version.
+Instructions for updating:
+non-resource variables are not supported in the long term
+WARNING:tensorflow:From /Users/suri-da/Desktop/Creative Stuff/Works/Code Files/Cloud Computing/Cloud Computing Research Project/.venv-decima/lib/python3.9/site-packages/tensorflow/python/util/dispatch.py:1260: calling softmax (from tensorflow.python.ops.nn_ops) with dim is deprecated and will be removed in a future version.
+Instructions for updating:
+dim is deprecated, use axis instead
+WARNING:tensorflow:From /Users/suri-da/Desktop/Creative Stuff/Works/Code Files/Cloud Computing/Cloud Computing Research Project/.venv-decima/lib/python3.9/site-packages/tensorflow/python/util/dispatch.py:1260: calling reduce_sum_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+training epoch 1
+/Users/suri-da/Desktop/Creative Stuff/Works/Code Files/Cloud Computing/Cloud Computing Research Project/.venv-decima/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+/Users/suri-da/Desktop/Creative Stuff/Works/Code Files/Cloud Computing/Cloud Computing Research Project/.venv-decima/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+WARNING:tensorflow:From /Users/suri-da/Desktop/Creative Stuff/Works/Code Files/Cloud Computing/Cloud Computing Research Project/.venv-decima/lib/python3.9/site-packages/tensorflow/python/compat/v2_compat.py:108: disable_resource_variables (from tensorflow.python.ops.variable_scope) is deprecated and will be removed in a future version.
+Instructions for updating:
+non-resource variables are not supported in the long term
+WARNING:tensorflow:From /Users/suri-da/Desktop/Creative Stuff/Works/Code Files/Cloud Computing/Cloud Computing Research Project/.venv-decima/lib/python3.9/site-packages/tensorflow/python/compat/v2_compat.py:108: disable_resource_variables (from tensorflow.python.ops.variable_scope) is deprecated and will be removed in a future version.
+Instructions for updating:
+non-resource variables are not supported in the long term
+WARNING:tensorflow:From /Users/suri-da/Desktop/Creative Stuff/Works/Code Files/Cloud Computing/Cloud Computing Research Project/.venv-decima/lib/python3.9/site-packages/tensorflow/python/util/dispatch.py:1260: calling softmax (from tensorflow.python.ops.nn_ops) with dim is deprecated and will be removed in a future version.
+Instructions for updating:
+dim is deprecated, use axis instead
+WARNING:tensorflow:From /Users/suri-da/Desktop/Creative Stuff/Works/Code Files/Cloud Computing/Cloud Computing Research Project/.venv-decima/lib/python3.9/site-packages/tensorflow/python/util/dispatch.py:1260: calling softmax (from tensorflow.python.ops.nn_ops) with dim is deprecated and will be removed in a future version.
+Instructions for updating:
+dim is deprecated, use axis instead
+WARNING:tensorflow:From /Users/suri-da/Desktop/Creative Stuff/Works/Code Files/Cloud Computing/Cloud Computing Research Project/.venv-decima/lib/python3.9/site-packages/tensorflow/python/util/dispatch.py:1260: calling reduce_sum_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+WARNING:tensorflow:From /Users/suri-da/Desktop/Creative Stuff/Works/Code Files/Cloud Computing/Cloud Computing Research Project/.venv-decima/lib/python3.9/site-packages/tensorflow/python/util/dispatch.py:1260: calling reduce_sum_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+got reward from workers 24.03675603866577 seconds
+advantage ready 0.021538734436035156 seconds
+worker send back gradients 7.129601001739502 seconds
+apply gradient 0.759716272354126 seconds
+training epoch 2
+got reward from workers 16.325496673583984 seconds
+advantage ready 0.02580094337463379 seconds
+worker send back gradients 7.49799919128418 seconds
+apply gradient 0.003397226333618164 seconds
+training epoch 3
+got reward from workers 17.568049907684326 seconds
+advantage ready 0.021960973739624023 seconds
+worker send back gradients 5.767940044403076 seconds
+apply gradient 0.002878904342651367 seconds

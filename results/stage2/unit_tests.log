@@ -1,0 +1,7 @@
+test_arrival_offset_and_units (test_metrics.MetricsTests) ... ok
+test_invalid_or_missing_completion (test_metrics.MetricsTests) ... ok
+
+----------------------------------------------------------------------
+Ran 2 tests in 0.000s
+
+OK

@@ -1,0 +1,114 @@
+{
+  "successful_updates": 3,
+  "finite_checkpoint_values": true,
+  "changed_model_variables_first_to_last": [
+    "actor_agent_9/Variable",
+    "actor_agent_8/Variable",
+    "actor_agent_7/Variable",
+    "actor_agent_6/Variable",
+    "actor_agent_5/Variable",
+    "actor_agent_4/Variable",
+    "actor_agent_29/Variable",
+    "actor_agent_14/Variable",
+    "actor_agent_26/Variable",
+    "actor_agent_25/Variable",
+    "actor_agent_28/Variable",
+    "actor_agent_11/Variable",
+    "actor_agent_22/Variable",
+    "actor_agent_20/Variable",
+    "actor_agent_2/Variable",
+    "actor_agent_23/Variable",
+    "actor_agent_12/Variable",
+    "actor_agent_19/Variable",
+    "actor_agent/fully_connected_3/weights",
+    "actor_agent_17/Variable",
+    "actor_agent_16/Variable",
+    "actor_agent/fully_connected_4/weights",
+    "actor_agent_15/Variable",
+    "actor_agent_3/Variable",
+    "actor_agent_27/Variable",
+    "actor_agent_18/Variable",
+    "actor_agent/Variable",
+    "actor_agent_1/Variable",
+    "actor_agent_24/Variable",
+    "actor_agent_13/Variable",
+    "actor_agent/fully_connected_3/biases",
+    "actor_agent_10/Variable",
+    "actor_agent/fully_connected_6/weights",
+    "actor_agent/fully_connected_2/biases",
+    "actor_agent/fully_connected_4/biases",
+    "actor_agent/fully_connected_5/weights",
+    "actor_agent/fully_connected_5/biases",
+    "actor_agent/fully_connected_7/biases",
+    "actor_agent/fully_connected_2/weights",
+    "actor_agent/fully_connected_1/weights",
+    "actor_agent/fully_connected/biases",
+    "actor_agent/fully_connected_1/biases",
+    "actor_agent/fully_connected_7/weights",
+    "actor_agent_21/Variable",
+    "actor_agent/fully_connected_6/biases",
+    "actor_agent/fully_connected/weights"
+  ],
+  "update_compute_seconds": [
+    31.947612047195435,
+    23.852694034576416,
+    23.360829830169678
+  ],
+  "median_update_compute_seconds": 23.852694034576416,
+  "post_startup_update_seconds": [
+    23.852694034576416,
+    23.360829830169678
+  ],
+  "total_process_wall_seconds": 94.149996469,
+  "training_summaries": [
+    {
+      "step": 1,
+      "values": {
+        "actor_loss": 780.32568359375,
+        "entropy": 0.649831235408783,
+        "value_loss": 18592.283203125,
+        "episode_length": 3465.5,
+        "average_reward_per_second": -4.945370674133301,
+        "sum_reward": 6.730171975277699e-13,
+        "reset_probability": 4.999999987376214e-07,
+        "num_jobs": 201.0,
+        "reset_hit": 1.0,
+        "average_job_duration": 121122.25,
+        "entropy_weight": 1.0
+      }
+    },
+    {
+      "step": 2,
+      "values": {
+        "actor_loss": -491.935546875,
+        "entropy": 0.6376451253890991,
+        "value_loss": 8204.4482421875,
+        "episode_length": 3824.0,
+        "average_reward_per_second": -3.7664260864257812,
+        "sum_reward": 58.03828048706055,
+        "reset_probability": 4.995999915990978e-07,
+        "num_jobs": 201.0,
+        "reset_hit": 0.0,
+        "average_job_duration": 71622.0859375,
+        "entropy_weight": 0.9990000128746033
+      }
+    },
+    {
+      "step": 3,
+      "values": {
+        "actor_loss": -276.7763671875,
+        "entropy": 0.6277303695678711,
+        "value_loss": 4124.623046875,
+        "episode_length": 3690.5,
+        "average_reward_per_second": -3.5169267654418945,
+        "sum_reward": 25.663602828979492,
+        "reset_probability": 4.991999844605743e-07,
+        "num_jobs": 201.0,
+        "reset_hit": 1.0,
+        "average_job_duration": 80880.6484375,
+        "entropy_weight": 0.9980000257492065
+      }
+    }
+  ],
+  "caution": "Three updates with two workers; stochastic episode horizons vary. Not convergence or final performance evidence."
+}

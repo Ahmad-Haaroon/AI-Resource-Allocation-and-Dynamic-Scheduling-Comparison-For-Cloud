@@ -1,0 +1,4 @@
+model_checkpoint_path: "/Users/suri-da/Desktop/Creative Stuff/Works/Code Files/Cloud Computing/Cloud Computing Research Project/results/stage2/pilot/models/model_ep_3"
+all_model_checkpoint_paths: "/Users/suri-da/Desktop/Creative Stuff/Works/Code Files/Cloud Computing/Cloud Computing Research Project/results/stage2/pilot/models/model_ep_1"
+all_model_checkpoint_paths: "/Users/suri-da/Desktop/Creative Stuff/Works/Code Files/Cloud Computing/Cloud Computing Research Project/results/stage2/pilot/models/model_ep_2"
+all_model_checkpoint_paths: "/Users/suri-da/Desktop/Creative Stuff/Works/Code Files/Cloud Computing/Cloud Computing Research Project/results/stage2/pilot/models/model_ep_3"
